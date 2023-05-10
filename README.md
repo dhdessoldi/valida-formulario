@@ -7,7 +7,15 @@
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
+* Validação de formulários de CPF e Idade;
+* Utilização de localStorage para armazenamento de dados;
+* mediaDevices e drawImage para abrir a câmera e registrar fotos;
 
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+
+
+## Screenshots
+
+![image](https://github.com/dhdessoldi/valida-formulario/assets/110476564/1743d14d-ab5a-42d0-a4fb-6a65b127dffd)
